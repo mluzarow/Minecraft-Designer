@@ -66,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\SidePanel.cs" />
     <Compile Include="Assets\Scripts\grid.cs" />
   </ItemGroup>
   <ItemGroup>
