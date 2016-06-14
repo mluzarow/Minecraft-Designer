@@ -19,7 +19,7 @@ $RECYCLE.BIN/
 
 # Unity Trash
 *.info
-*.File
+metadata
 
 # =========================
 # Operating System Files
