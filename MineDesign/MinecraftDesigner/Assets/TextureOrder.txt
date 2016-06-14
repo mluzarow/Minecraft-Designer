@@ -1,0 +1,14 @@
+00:Grass_Top
+01:Stone
+02:Dirt
+03:Grass_Side
+04:Wood_Plank_Oak
+05:Slab_Side
+06:Slab_Top
+07:Brick
+08:TNT_Side
+09:TNT_Top
+10:TNT_Under
+11:Spider_Web
+12:Rose
+13:
